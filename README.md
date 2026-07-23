@@ -1,29 +1,29 @@
-# 🎓 Student Management System
+#  Student Management System
 
 A desktop-based **Student Management System** developed in **Python** with a graphical user interface (GUI) to simplify the management of student records. The application enables administrators to efficiently perform student record operations through an intuitive interface.
 
-## 📌 Overview
+##  Overview
 
 This project was built to demonstrate the practical implementation of Python programming concepts, including GUI development, user authentication, and CRUD (Create, Read, Update, Delete) operations. It provides a simple and organized way to manage student information.
 
-## ✨ Features
+##  Features
 
-* 🔐 Secure Admin Login
-* ➕ Add New Student Records
-* ✏️ Update Existing Student Details
-* ❌ Delete Student Records
-* 🔍 Search Student Information
-* 📋 View Student Records
-* 🖥️ User-Friendly Graphical Interface
-* ⚡ Fast and Simple Navigation
+*  Secure Admin Login
+*  Add New Student Records
+*  Update Existing Student Details
+*  Delete Student Records
+*  Search Student Information
+*  View Student Records
+*  User-Friendly Graphical Interface
+*  Fast and Simple Navigation
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * Python
 * Tkinter
 * Object-Oriented Programming (OOP)
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -49,13 +49,13 @@ Run the application:
 python app.py
 ```
 
-## 🔑 Demo Login
+##  Demo Login
 
 The application requires administrator authentication.
 
 > **Note:** Update the credentials in the source code if you want to use your own username and password.
 
-## 🎯 Learning Outcomes
+##  Learning Outcomes
 
 Through this project, I gained practical experience in:
 
@@ -67,7 +67,7 @@ Through this project, I gained practical experience in:
 * Problem Solving
 * Application Design
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
 * Database Integration (SQLite/MySQL)
 * Student Attendance Management
@@ -76,7 +76,7 @@ Through this project, I gained practical experience in:
 * Role-Based Access Control
 * Improved Dashboard and Analytics
 
-## 👩‍💻 Author
+##  Author
 
 **Gaganpreet Kaur**
 
